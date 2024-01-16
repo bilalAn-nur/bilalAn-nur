@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bilal Nur Fauzi and I'm a Information engineering student at Universitas Komputer Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Bilal Nur Fauzi</h2>
 
 ###
 
