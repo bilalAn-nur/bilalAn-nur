@@ -2,8 +2,9 @@
 
 ###
 
-<img align="center" height="150" src="https://github.com/bilalAn-nur/bilalAn-nur/blob/main/gif/ayaka-kamisato-ayaka.gif"  />
-
+<div align="center">
+<img height="150" src="https://github.com/bilalAn-nur/bilalAn-nur/blob/main/gif/ayaka-kamisato-ayaka.gif"  />
+</div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
