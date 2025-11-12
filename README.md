@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://github.com/bilalAn-nur/bilalAn-nur/blob/main/gif/ayaka-kamisato-ayaka.gif"  />
-</div>
 
 ###
 
