@@ -16,8 +16,9 @@
 
 <div align="center">
   <i>"God is real. I knew it."</i><br/>
-  <sub>From the Arima Kinen 1990 CM — Oguri Cap</sub>
+  <sub>CM — Arima Kinen 1990, Oguri Cap</sub>
 </div>
+
 ###
 
 
