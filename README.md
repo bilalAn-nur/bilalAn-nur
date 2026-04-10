@@ -14,6 +14,10 @@
 
 <h1 align="center">Hi 👋! My name is Bilal Nur Fauzi</h1>
 
+<div align="center">
+  <i>"God is real. I knew it."</i><br/>
+  <sub>From the Arima Kinen 1990 CM — Oguri Cap</sub>
+</div>
 ###
 
 
