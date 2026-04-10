@@ -9,6 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bilalAn-nur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalAn-nur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F73B7F&center=true&vCenter=true&width=700&lines=God+is+real.+I+knew+it.;Arima+Kinen+1990+(CM)+—+Oguri+Cap" />)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=God%20is%20real.%20I%20knew%20it.&fontSize=20&fontColor=ffffff&desc=Arima%20Kinen%201990%20(CM)%20—%20Oguri%20Cap&descAlign=50&descAlignY=70" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
