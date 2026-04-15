@@ -9,6 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bilalAn-nur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalAn-nur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=God%20is%20real.%20I%20knew%20it.&fontSize=20&fontColor=ffffff&desc=Arima%20Kinen%201990%20(CM)%20—%20Oguri%20Cap&descAlign=50&descAlignY=70" />
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&quotesUrl=https://github.com/bilalAn-nur/bilalAn-nur/blob/main/quotes.json)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
